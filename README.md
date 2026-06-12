@@ -316,7 +316,7 @@ field) and 82..90 (FAT32 field) before deciding which offset pair to use.
 ## Reference implementation (Windows / Python) for comparison
 
 A working reference implementation in Python for Windows is at:
-https://github.com/benchkit/eoscard-400plus-prep
+https://github.com/benchkit-labs/eoscard-400plus-prep
 The byte offsets, marker strings, and safety pattern there have been verified
 against a real Canon 400D. Use it as a sanity check for the generated code.
 
