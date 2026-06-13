@@ -340,3 +340,7 @@ I am a moderately technical user who pulled an old Canon Rebel XTi off the shelf
 
 If you are reviewing the code before running it as Administrator on a card (which you should), know that every line has been read and tested by a human against a real camera. But it is still a small script working with raw disk I/O — `--check` is read-only and safe to run first, and the write path prompts for `yes` confirmation before touching anything.
 
+## License
+
+MIT — see [LICENSE](LICENSE). Free to use, modify, and distribute. The "as-is, no warranty" disclaimers above are also reflected in the MIT warranty clause.
+
