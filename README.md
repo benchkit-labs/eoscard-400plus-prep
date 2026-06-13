@@ -344,3 +344,7 @@ If you are reviewing the code before running it as Administrator on a card (whic
 
 MIT — see [LICENSE](LICENSE). Free to use, modify, and distribute. The "as-is, no warranty" disclaimers above are also reflected in the MIT warranty clause.
 
+---
+
+Part of [Benchkit Labs](https://benchkit-labs.dev) · [github.com/benchkit-labs](https://github.com/benchkit-labs)
+
